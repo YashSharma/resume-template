@@ -1,19 +1,54 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# # Jobs
+# # VP of Global Communications
+# - company: Springfield International Human Rights Outreach
+#   position: VP of Global Communications
+#   duration: Oct, 2013 &mdash; Present
+#   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# # Director of Digital Stratgy
+# - company: United Nations Human Rights Council
+#   position: Director of Digital Strategy
+#   duration:  Jun, 2010 &mdash; Sept, 2013
+#   summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# # Communications Coordinator
+# - company: Springfield Women & Children's Center
+#   position: Communications Coordinator
+#   duration:   Jun, 2008  &mdash; May, 2010
+#   summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+
+- company: Freshworks
+  position: Data Scientist
+  duration: March 2020 &mdash; June 2020
+  summary: <ul class="resume-item-list"><li><b>Sales Journey Forecasting</b> - Worked as a part of feature engineering and ML modeling team for developing features and learning the temporal trend in sales journey for forecasting deal closure. Used Xgboost with dynamic sample weighting for tackling the challenge of imbalance in the data. Used Bayesian optimization framework and MLflow for tuning the hyperparameters by validating performance across multiple months, achieving precision >= 0.5 and recall >= 0.4 for all the accounts.</li></ul>
+
+- company: ZS Associates
+  position: Data Science Associate Consultant
+  duration: July 2017 &mdash; March 2020
+  summary: <ul class="resume-item-list"><li><b>Pathway Clustering</b> - Designed a Semi-Parametric Hawkes Process for interpretable modeling and learning of event intensity in the patient journey. Used event intensity vector for clustering the patients.
+   Scaled the implementation using Pytorch framework.</li>
+   <li><b>Key Influencer Mapping</b> - Developed a semi-supervised hierarchical clustering approach for author disambiguation in the medical archive database achieving F1 score of 0.91 on the manually annotated data and a future influencer identification approach using SNA algorithm PageRank with exponential influence decay. Approach was accepted and presented at 22nd Merck Technology Symposium.</li>
+   <li><b>Patient Journey Line Prediction</b> - Led the development of disease area agnostic pipeline for the line of treatment identification in patient-level sequence data using Genetic algorithm, domain encoded treatment level information in graph, and mean-shift clustering.</li>
+   <li><b>Competitive Intelligence</b> - Predicted launch date of competitor drugs using GLM trained on event impact features along with trial features to aid client in strategic decision making. Implemented multi-state markov model to learn trial and global event impacts on a drug journey. Achieved MSE of 10 months for phase 1 trial, 6 months for phase 2 trial, and 3 months for phase 3 trial drugs.</li>
+   <li><b>Information Extractor</b> - Built a text pre-processing pipeline and implemented "Self-Taught CNN for Short Text Clustering" to extract and identify topic of signals from Combination Product pertaining news articles and conference papers.</li>
+   <li><b>Safety Alert Tool</b> - Used LDA and a DBSCAN based tf-idf clustering algorithm to analyze site safety logs. Trained XGBoost model on cluster matrix to alert workers about potential incidents at pharmaceutical sites. Developed solution was presented by client in Health AI Summit showcasing the novel use of Data Science in quality operations.</li>
+   <li><b>Clinical Trial Design Optimization</b> - Created data mining pipeline comprising of XML parser, coreNLP, spaCy modules ,MeSH ontologies, CRFs, etc. for  entity extraction, and entity linking tasks from clinicaltrials.gov and PubMed to expedite knowledge discovery for trial researchers.</li>
+   <li><b>Response Analyzer</b> - Used incrementally trained word vector on medical corpus along with WMD semantic matching technique to identify whether managers are complying to client's coaching standards for medical representative training or not.</li>
+   <li><b>Pharmacovigilance</b> - Developed an application to identify tweets indicating adverse effects of the concerned drug using CNN model.</li>
+   </ul>
+
+
+- company: Busigence
+  position: Data Science Intern
+  duration: May 2016 &mdash; July 2016
+  summary: <ul class="resume-item-list"><li><b>Statistical Testing Module</b> - Designed a hypothesis testing module to aid in feature engineering, feature transformation, and outlier detection.</li><li><b>Ensemble Modeling Module</b> - Built a module to select appropriate bagging/boosting model based on performance metric and tune its hyperparameters using Hyperopt.</li></ul>
+  
+# - company: ZS Associates
+#   position: Data Science Associate Consultant
+#   duration: Jul 2019 &mdash; March 2020
+#   summary: <ul class="resume-item-list">
+#   <li><b></b> - </li>
+#   <li><b></b> - </li>
+#   <li><b></b> - </li>
+#   </ul>

@@ -2,15 +2,46 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Data Driven Modeling of Composites (B.Tech Project)
+  role: Under the guidance of Prof. Siladitya Pal
+  duration: July 2016 &mdash; May 2017
+  url: "https://github.com/ranamihir/btp"
+  description: <ul class="resume-item-list"><li>Developed a data-driven algorithmic framework to aid in surrogate modeling of composites based on simulation data.</li><li>ML powered framework reduced computation time from 2 days to 10 minutes achieving the same accuracy as that of traditional methods.</li></ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: DeBlur GAN
+  role: Project
+  duration: October 2019
+  url: "https://github.com/YashSharma/Experiments/tree/master/GAN/DeBlurGAN"
+  description: <ul class="resume-item-list"><li>Designed a CycleGAN inspired generator-discriminator architecture for recovering degraded celeb images.</li><li>Used weighted sum of pixelwise L2 loss and VGGNet perceptual loss along with Adam optimizer for high quality output.</li></ul>
+
+- project: Stack Overflow Chat Bot
+  role: Project
+  duration: July 2018
+  url: "https://github.com/YashSharma/NLP-Coursera/tree/master/project"
+  description: <ul class="resume-item-list"><li>Built a dialogue chatbot to assist with stack overflow queries. Hosted it on Telegram and AWS. </li><li>Created intent classifier to classify queries as pertaining to stack overflow or not. Used chatterbot with incremental training for natural language generation and starspace embedding based semantic match for natural language query.  </li></ul>
+
+- project: Quest Hackathon, ZS Associates
+  role: Project
+  duration: December 2017
+  url: "https://github.com/syeddanish41/MedLens"
+  description: <ul class="resume-item-list"><li>Built a question-answer format AI based tool to aid investigators in researching medical corpus like PubMed, etc.</li><li>Used Bi-directional attention flow model for machine comprehension task. Awarded runner-up position in the hackathon.</li></ul>
+
+- project: Analytics Vidhya Hackathons
+  role: Project
+  duration: July 2016
+  url: "https://github.com/YashSharma/AV_Rampaging_DataHulk"
+  description: <ul class="resume-item-list"><li>Developed ML based pipeline consisting of data pre-processing, feature engineering, model selection, and hyperparameter tuning step.</li><li>Tested the pipeline on range of supervised learning hackathons and achieved top 1\% rank in multiple of them. </li></ul>
+
+
+# # Springfield Community Outreach Group
+# - project: Springfield Community Outreach Group
+#   role: Co-Founder & Organizer
+#   duration: 2007 &mdash; Present
+#   # url: "#"
+#   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+
+# - project: jazznotes.io
+#   role: Founder & Primary Developer
+#   duration: 2012 &mdash; Present
+#   # url: "#"
+#   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.

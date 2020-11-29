@@ -35,7 +35,7 @@
           {% include icon-links.html %}
         </div>
 
-        <div class="executive-summary" itemprop="description">
+        <div class="executive-summary" itemprop="description" style="text-align: justify">
           {{ site.resume_header_intro }}
         </div>
 
@@ -74,6 +74,25 @@
       </section>
       <!-- end Education -->
       {% endif %}
+
+      {% if site.resume_section_publication %}
+      <!-- begin Publication -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Publication</h2>
+        </header>
+        {% for paper in site.data.publication %}
+        <div class="resume-item">
+          <h4 class="resume-item-details">{{ paper.paper }}</h4>
+          <p class="resume-item-copy">{{ paper.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Publication -->
+      {% endif %}
+
 
       {% if site.resume_section_experience %}
       <!-- begin Experience -->
@@ -135,7 +154,7 @@
       {% endif %}
 
 
-<!--       {% if site.resume_section_recognition %}
+      {% if site.resume_section_recognition %}
 
       <section class="content-section">
 
@@ -154,8 +173,8 @@
       </section>
 
       {% endif %}
- -->
-<!--       {% if site.resume_section_associations %}
+
+      {% if site.resume_section_associations %}
       
       <section class="content-section">
 
@@ -174,8 +193,8 @@
       </section>
       
       {% endif %}
- -->
-      <!-- {% if site.resume_section_interests %}
+
+<!--       {% if site.resume_section_interests %}
       <section class="content-section">
 
         <header class="section-header">
@@ -191,8 +210,8 @@
         </div>
 
       </section>
-      {% endif %}
- -->
+      {% endif %} -->
+
       <!-- {% if site.resume_section_links %}
       <section class="content-section">
 

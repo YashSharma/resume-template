@@ -37,6 +37,10 @@
     letter-spacing: -.15rem;
     line-height: 1;
     margin: 1rem 0 0;
+
+    @include media_mobile {
+      display: none;
+    }
   }
 
   .header-contact-info {
@@ -202,6 +206,12 @@
   body { font-size: 12px; line-height: 1rem; }
   .page-header { padding: 1rem 0 .2rem;
     .header-name {
+      /** 
+       * Specify this explicitly to override
+       * display:none used for media_mobile
+       */
+      display: block;
+
       @include sans_bold;
       font-size: 2rem;
       margin: 0 0 .2rem;

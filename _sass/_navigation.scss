@@ -1,10 +1,20 @@
 $nav-height: 72px;
 
 section.nav-buffer {
+  
+  @include media_max(700px) {
+    display: none;
+  }
+
   height: $nav-height;
 }
 
 header.nav-wrapper {
+
+  @include media_max(700px) {
+    display: none;
+  }
+
   width: 100%;
   z-index: 1100;
 

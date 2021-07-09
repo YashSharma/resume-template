@@ -1,4 +1,11 @@
 # Publication
 # Paper
-- paper: <a href='https://arxiv.org/pdf/1909.01963.pdf'> Self-Attentive Adversarial Stain Normalization</a>
+- paper: <a href='https://arxiv.org/abs/2103.10626'> Cluster-to-Conquer: A Framework for End-to-End Multi-Instance Learning for Whole Slide Image Classification</a>
+  description: <b> Yash Sharma </b>, Aman Shrivastava, Lubaina Ehsan, Christopher A. Moskaluk, Sana Syed, Donald Brown. <br> <i> Published in MIDL 2021. arXiv:2103.10626 </i>
+
+- paper: <a href='https://arxiv.org/abs/2106.07068'> HistoTransfer: Understanding Transfer Learning for Histopathology</a>
+  description: <b> Yash Sharma </b>, Lubaina Ehsan, Sana Syed, Donald Brown. <br> <i> Published in IEEE BHI-BSN 2021. arXiv:2106.07068 </i>
+
+- paper: <a href='https://arxiv.org/abs/1909.01963'> Self-Attentive Adversarial Stain Normalization</a>
   description: Aman Shrivastava, Will Adorno, <b> Yash Sharma </b>, Lubaina Ehsan, S. Asad Ali, Sean R. Moore, Beatrice Amadi, Paul Kelly, Sana Syed, Donald Brown. <br> <i> Published in International Conference on Pattern Recognition (ICPR) 2021. arXiv:1909.01963 </i>
+

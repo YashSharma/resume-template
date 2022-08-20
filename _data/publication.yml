@@ -1,5 +1,11 @@
 # Publication
 # Paper
+- paper: <a href='https://arxiv.org/abs/2206.14437'> MaNi - Maximizing Mutual Information for Nuclei Cross-Domain Unsupervised Segmentation</a>
+  description: <b> Yash Sharma </b>, Sana Syed, Donald Brown. <br> <i> Published in MICCAI 2022. arXiv:2206.14437 </i>
+
+- paper: <a href='https://arxiv.org/abs/2208.00098'> Weakly Supervised Deep Instance Nuclei Detection using Points Annotation in 3D Cardiovascular Immunofluorescent Images</a>
+  description: Nazanin Moradinasab, <b> Yash Sharma </b>, Laura S. Shankman, Gary K. Owens, Donald E. Brown. <br> <i> Published in MLHC 2022. arXiv:2208.00098 </i>
+
 - paper: <a href='https://arxiv.org/abs/2103.10626'> Cluster-to-Conquer - A Framework for End-to-End Multi-Instance Learning for Whole Slide Image Classification</a>
   description: <b> Yash Sharma </b>, Aman Shrivastava, Lubaina Ehsan, Christopher A. Moskaluk, Sana Syed, Donald Brown. <br> <i> Published in MIDL 2021. arXiv:2103.10626 </i>
 
@@ -7,7 +13,7 @@
   description: <b> Yash Sharma </b>, Lubaina Ehsan, Sana Syed, Donald Brown. <br> <i> Published in IEEE BHI-BSN 2021. arXiv:2106.07068 </i>
 
 - paper:  Encoding Cardiopulmonary Exercise Testing Time Series as Images for Classification using Convolutional Neural Network
-  description: <b> Yash Sharma </b>, Nick Coronato, Donald Brown. <br> <i> Accepted in NeurIPS 2021 - MLPH Workshop </i>
+  description: <b> Yash Sharma </b>, Nick Coronato, Donald Brown. <br> <i> Accepted in NeurIPS 2021 - MLPH Workshop and IEEE EMBC 2022.</i>
 
 - paper: <a href='https://arxiv.org/abs/1909.01963'> Self-Attentive Adversarial Stain Normalization</a>
   description: Aman Shrivastava, Will Adorno, <b> Yash Sharma </b>, Lubaina Ehsan, S. Asad Ali, Sean R. Moore, Beatrice Amadi, Paul Kelly, Sana Syed, Donald Brown. <br> <i> Published in International Conference on Pattern Recognition (ICPR) 2021. arXiv:1909.01963 </i>

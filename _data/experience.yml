@@ -18,11 +18,18 @@
 #   duration:   Jun, 2008  &mdash; May, 2010
 #   summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
 
+- company: Gastroenterology Data Science Lab, University Of Virginia
+  position: Machine Learning Researcher
+  duration: July 2020 &mdash; Present
+  summary: <ul class="resume-item-list"><li><b>Whole Slide Image Modeling</b> - Developing semi-supervised segmentation pipeline for domain adaptation task..</li>
+  <li><b>Transcriptomics Data</b> - Integrating flux balance analysis with machine learning for identifying the upregulated and downregulated genes in gastrointestinal diseased patients.</li>
+  </ul>
+
 - company: Freshworks
   position: Data Scientist
   duration: March 2020 &mdash; June 2020
   summary: <ul class="resume-item-list"><li><b>Sales Journey Forecasting</b> - Worked as a part of feature engineering and ML modeling team for developing features and learning the temporal trend in sales journey for forecasting deal closure. Used Xgboost with dynamic sample weighting for tackling the challenge of imbalance in the data. Used Bayesian optimization framework and MLflow for tuning the hyperparameters by validating performance across multiple months, achieving precision >= 0.5 and recall >= 0.4 for all the accounts.</li></ul>
-
+  
 - company: ZS Associates
   position: Data Science Associate Consultant
   duration: July 2017 &mdash; March 2020

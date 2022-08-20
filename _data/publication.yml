@@ -1,7 +1,7 @@
 # Publication
 # Paper
-- paper: <a href='https://arxiv.org/abs/2206.14437'> MaNi - Maximizing Mutual Information for Nuclei Cross-Domain Unsupervised Segmentation</a>
-  description: <b> Yash Sharma </b>, Sana Syed, Donald Brown. <br> <i> Published in MICCAI 2022. arXiv:2206.14437 </i>
+# - paper: <a href='https://arxiv.org/abs/2206.14437'> MaNi - Maximizing Mutual Information for Nuclei Cross-Domain Unsupervised Segmentation</a>
+#   description: <b> Yash Sharma </b>, Sana Syed, Donald Brown. <br> <i> Published in MICCAI 2022. arXiv:2206.14437 </i>
 
 - paper: <a href='https://arxiv.org/abs/2208.00098'> Weakly Supervised Deep Instance Nuclei Detection using Points Annotation in 3D Cardiovascular Immunofluorescent Images</a>
   description: Nazanin Moradinasab, <b> Yash Sharma </b>, Laura S. Shankman, Gary K. Owens, Donald E. Brown. <br> <i> Published in MLHC 2022. arXiv:2208.00098 </i>

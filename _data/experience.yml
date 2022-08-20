@@ -3,8 +3,7 @@
 # - company: Springfield International Human Rights Outreach
 #   position: VP of Global Communications
 #   duration: Oct, 2013 &mdash; Present
-#   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
+  
 # # Director of Digital Stratgy
 # - company: United Nations Human Rights Council
 #   position: Director of Digital Strategy
@@ -18,12 +17,12 @@
 #   duration:   Jun, 2008  &mdash; May, 2010
 #   summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
 
-- company: Gastroenterology Data Science Lab, University Of Virginia
-  position: Machine Learning Researcher
-  duration: July 2020 &mdash; Present
-  summary: <ul class="resume-item-list"><li><b>Whole Slide Image Modeling</b> - Developing semi-supervised segmentation pipeline for domain adaptation task..</li>
-  <li><b>Transcriptomics Data</b> - Integrating flux balance analysis with machine learning for identifying the upregulated and downregulated genes in gastrointestinal diseased patients.</li>
-  </ul>
+# - company: Gastroenterology Data Science Lab, University Of Virginia
+#   position: Machine Learning Researcher
+#   duration: July 2020 &mdash; Present
+#   summary: <ul class="resume-item-list"><li><b>Whole Slide Image Modeling</b> - Developing semi-supervised segmentation pipeline for domain adaptation task..</li>
+#   <li><b>Transcriptomics Data</b> - Integrating flux balance analysis with machine learning for identifying the upregulated and downregulated genes in gastrointestinal diseased patients.</li>
+#   </ul>
 
 - company: Freshworks
   position: Data Scientist

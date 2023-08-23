@@ -11,22 +11,22 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Yash Sharma"
-resume_title:                   "Changing Healthcare one bit at a time"
+resume_title:                   "Blending Deep ML Expertise with Real-world Innovation."
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "ys5hd@virginia.edu"
+resume_contact_email:           "ys4yh@virginia.edu"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "434-249-4526"
-resume_contact_address:         "1800 Jefferson Park Ave"
+resume_contact_address:         "1928 Lewis Mountain Road"
 
-resume_header_contact_info:     "1800 Jefferson Park Ave, Charlottesville • 434-249-4526 • ys5hd@virginia.edu"
+resume_header_contact_info:     "1928 Lewis Mountain Road, Charlottesville • 434-249-4526 • ys5hd@virginia.edu"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am a first-year Computer Science MS student at the University of Virginia with over 5+ years of experience as a Data Scientist/ Machine Learning Researcher. Currently, I am also working as a Research Assistant at <a href='https://gastrodatasciencelab.org'>Gastroenterology Data Science Lab</a>, under the guidance of <a href='https://research.med.virginia.edu/chrc/key-investigators/sana-syed-md-ms/'>Dr. Sana Syed</a> and <a href='https://engineering.virginia.edu/faculty/donald-e-brown-phd'>Dr. Donald E. Brown</a> and collaborating with a team of researchers and doctors. My research focuses on developing end-to-end interpretable deep learning architecture for gastrointestinal disease and multi-modal modeling integrating transcriptomics data with biopsy images. The need for interpretable modeling and the lack of supervision in medical imaging are exciting problems, and I intend to contribute in this direction. Our recent work in this area has been published in MICCAI, MIDL, MLHC, IEEE BHI, EMBC, and NeurIPS. </p>
+resume_header_intro: "<p>I am a final-year Computer Science MS student at the University of Virginia with over 5+ years of experience as a Data Scientist/ Machine Learning Researcher. Currently, I am also working as a Research Assistant at <a href='https://gastrodatasciencelab.org'>Gastroenterology Data Science Lab</a>, under the guidance of <a href='https://research.med.virginia.edu/chrc/key-investigators/sana-syed-md-ms/'>Dr. Sana Syed</a> and <a href='https://engineering.virginia.edu/faculty/donald-e-brown-phd'>Dr. Donald E. Brown</a> and collaborating with a team of researchers and doctors. My research focuses on developing end-to-end interpretable deep learning architecture for gastrointestinal disease and multi-modal modeling integrating transcriptomics data with biopsy images. The need for interpretable modeling and the lack of supervision in medical imaging are exciting problems, and I intend to contribute in this direction. Our recent work in this area has been published in MICCAI, MIDL, MLHC, IEEE BHI, EMBC, and NeurIPS. </p>
 <p> I have over three years of industrial experience as a Data Scientist with <a href='https://www.zs.com/'>ZS Associates</a> (Consulting firm) and <a href='https://www.freshworks.com/'>Freshworks</a> (Software-as-a-service product firm). 
 At ZS, I was part of the Advanced Data Science group working on developing ML-based solutions for top pharmaceutical firms like Amgen, Pfizer, Merck, etc. 
-Exposure to problems in the drug development and manufacturing phase made me realize the much-needed requirement of bringing computational advancement to the medical field. My time at Freshworks helped me understand the challenges of scaling an ML idea and putting it into production. </p>"
+Exposure to problems in the drug development and manufacturing phase made me realize the much-needed requirement of bringing computational advancement to the medical field. My time at Freshworks helped me understand the challenges of scaling an ML idea and putting it into production. During the summer, I enhanced my expertise as a Machine Learning Intern at ScaleAI working on Vision Foundation Models.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

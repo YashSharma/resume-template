@@ -17,11 +17,17 @@
 #   duration:   Jun, 2008  &mdash; May, 2010
 #   summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
 
+- company: Scale AI
+  position: Machine Learning Research Engineer Intern
+  duration: May 2023 &mdash; August 2023
+  summary: <ul class="resume-item-list"><li>Worked on Computer Vision Foundation model.</li>   
+   </ul>
+
 - company: Gastroenterology Data Science Lab, University Of Virginia
   position: Machine Learning Researcher
-  duration: July 2020 &mdash; Present
-  summary: <ul class="resume-item-list"><li><b>Whole Slide Image Modeling</b> - Developing semi-supervised segmentation pipeline for domain adaptation task.</li>
-   <li><b>Transcriptomics Data</b> - Integrating flux balance analysis with machine learning for identifying the upregulated and downregulated genes in gastrointestinal diseased patients.</li>
+  duration: July 2020 &mdash; April 2023
+  summary: <ul class="resume-item-list"><li><b>Whole Slide Image Modeling</b> - Developed a semi-supervised segmentation and classification pipeline for gigapixel-sized histology images, leading to publications in multiple conferences.</li>
+   <li><b>Transcriptomics Data</b> - Integrated flux balance analysis with machine learning for identifying the upregulated and downregulated genes in gastrointestinal diseased patients.</li>
    </ul>
 
 - company: Freshworks
